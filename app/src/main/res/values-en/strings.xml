@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dream Recall</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_journal">Journal</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_ai_assistant">AI Interpreter</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- General Actions -->
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_retry">Retry</string>
+    <string name="error_generic">An unexpected error occurred. Please try again later.</string>
+
+    <!-- Home & Empty States -->
+    <string name="dashboard_title">Tonight\'s Journey</string>
+    <string name="recent_dreams">Recent Dreams</string>
+    <string name="lucid_dreams_count">Lucid Dreams</string>
+    <string name="total_dreams_count">Total Dreams</string>
+    <string name="average_clarity">Avg. Clarity</string>
+    <string name="empty_dreams_title">Your inner world awaits...</string>
+    <string name="empty_dreams_subtitle">Record your first dream to start exploring your subconscious mind with advanced AI analysis.</string>
+    <string name="btn_add_dream">Record Your Dream Now</string>
+
+    <!-- Add/Edit Dream Screen -->
+    <string name="add_dream_title">Record Dream</string>
+    <string name="hint_dream_title">Dream Title (e.g., Flying Over Clouds)</string>
+    <string name="hint_dream_content">What did you see in your dream? Describe details, emotions, and places vividly...</string>
+    <string name="label_dream_type">Dream Category</string>
+    <string name="dream_type_lucid">Lucid Dream</string>
+    <string name="dream_type_nightmare">Nightmare</string>
+    <string name="dream_type_regular">Regular Dream</string>
+    <string name="dream_type_prophetic">Prophetic Dream</string>
+    <string name="label_clarity_level">Clarity &amp; Awareness Level</string>
+    <string name="label_sleep_quality">Overall Sleep Quality</string>
+    <string name="label_emotions">Predominant Emotions</string>
+    <string name="label_tags">Symbols &amp; Elements (Tags)</string>
+    <string name="hint_add_tag">Add symbol...</string>
+    <string name="label_date">Dream Date</string>
+
+    <!-- AI Interpretation -->
+    <string name="ai_interpretation_title">AI Interpretation &amp; Psychological Analysis</string>
+    <string name="ai_interpret_btn">Decode Dream with AI</string>
+    <string name="ai_generating">Analyzing the symbols of your subconscious with Gemini...</string>
+    <string name="ai_analysis_result">Comprehensive Analysis &amp; Symbolic Meanings</string>
+    <string name="ai_psychological_insight">Psychological Dimension</string>
+    <string name="ai_dream_symbols">Discovered Symbols</string>
+    <string name="ai_recommendation">Sleep Advisory</string>
+
+    <!-- Analytics & Stats -->
+    <string name="analytics_title">Subconscious Analytics</string>
+    <string name="analytics_weekly_pattern">Weekly Dream Pattern</string>
+    <string name="analytics_emotion_distribution">Emotion Distribution</string>
+    <string name="analytics_lucid_ratio">Lucid Dream Ratio</string>
+    <string name="analytics_top_symbols">Top Recurring Symbols</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">Settings &amp; Privacy</string>
+    <string name="settings_biometric_lock">Biometric Authentication Lock</string>
+    <string name="settings_biometric_desc">Protect your dream journal using fingerprint or face unlock</string>
+    <string name="settings_reminders">Morning Dream Journal Reminder</string>
+    <string name="settings_reminders_desc">Gently alert you upon waking up to write down the dream before you forget it</string>
+    <string name="settings_dark_mode_always">Dark Mode (Always On)</string>
+    <string name="settings_dark_mode_desc">Eye-friendly theme tailored for dim/dark environments</string>
+    <string name="settings_backup">Encrypted Cloud Backup</string>
+    <string name="settings_backup_desc">Store and secure your dreams in the cloud with end-to-end encryption</string>
+    <string name="settings_language">App Language</string>
+    <string name="settings_about">About Dream Recall</string>
+
+    <!-- Security & Biometric prompts -->
+    <string name="biometric_prompt_title">Dream Journal Locked</string>
+    <string name="biometric_prompt_subtitle">Please authenticate to unlock your private dreams</string>
+    <string name="biometric_prompt_cancel">Cancel</string>
+</resources>

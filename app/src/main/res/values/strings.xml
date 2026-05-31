@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مستدعي الأحلام</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_journal">المدونة</string>
+    <string name="nav_analytics">التحليلات</string>
+    <string name="nav_ai_assistant">المفسر الذكي</string>
+    <string name="nav_settings">الإعدادات</string>
+
+    <!-- General Actions -->
+    <string name="btn_save">حفظ</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="btn_delete">حذف</string>
+    <string name="btn_edit">تعديل</string>
+    <string name="btn_retry">إعادة المحاولة</string>
+    <string name="error_generic">حدث خطأ غير متوقع. يرجى المحاولة لاحقاً.</string>
+
+    <!-- Home & Empty States -->
+    <string name="dashboard_title">رحلتك الليلة</string>
+    <string name="recent_dreams">آخر الأحلام المسجلة</string>
+    <string name="lucid_dreams_count">الأحلام الواضحة</string>
+    <string name="total_dreams_count">إجمالي الأحلام</string>
+    <string name="average_clarity">معدل الوضوح</string>
+    <string name="empty_dreams_title">عالمك الداخلي ينتظر...</string>
+    <string name="empty_dreams_subtitle">سجل حلمك الأول لبدء استكشاف عقلك الباطن بدعم من الذكاء الاصطناعي الفائق.</string>
+    <string name="btn_add_dream">سجل حلمك الآن</string>
+
+    <!-- Add/Edit Dream Screen -->
+    <string name="add_dream_title">تدوين الرؤيا</string>
+    <string name="hint_dream_title">عنوان الحلم (مثال: الطيران فوق الغيوم)</string>
+    <string name="hint_dream_content">ماذا رأيت في منامك؟ صف التفاصيل والمشاعر والأماكن بدقة...</string>
+    <string name="label_dream_type">تصنيف الحلم</string>
+    <string name="dream_type_lucid">حلم واضح (جلي)</string>
+    <string name="dream_type_nightmare">كابوس</string>
+    <string name="dream_type_regular">حلم اعتيادي</string>
+    <string name="dream_type_prophetic">رؤيا صادقة</string>
+    <string name="label_clarity_level">درجة الوضوح والوعي</string>
+    <string name="label_sleep_quality">جودة النوم العام</string>
+    <string name="label_emotions">المشاعر السائدة</string>
+    <string name="label_tags">الرموز والدلالات (وسوم)</string>
+    <string name="hint_add_tag">أضف رمزاً...</string>
+    <string name="label_date">تاريخ الحلم</string>
+
+    <!-- AI Interpretation -->
+    <string name="ai_interpretation_title">التفسير والتحليل النفسي</string>
+    <string name="ai_interpret_btn">فك شفرة الحلم بالذكاء الاصطناعي</string>
+    <string name="ai_generating">يجري تحليل رموز عقلك الباطن بالاستعانة بـ Gemini...</string>
+    <string name="ai_analysis_result">التحليل الشامل والرموز الدلالية</string>
+    <string name="ai_psychological_insight">البعد النفسي</string>
+    <string name="ai_dream_symbols">الرموز المكتشفة</string>
+    <string name="ai_recommendation">نصيحة للنوم الهانئ</string>
+
+    <!-- Analytics & Stats -->
+    <string name="analytics_title">تحليلات اللاوعي</string>
+    <string name="analytics_weekly_pattern">النمط الأسبوعي للأحلام</string>
+    <string name="analytics_emotion_distribution">توزيع المشاعر السائدة</string>
+    <string name="analytics_lucid_ratio">نسبة الأحلام الجلية</string>
+    <string name="analytics_top_symbols">أبرز الرموز المتكررة</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">الإعدادات والخصوصية</string>
+    <string name="settings_biometric_lock">قفل التطبيق بالمستشعرات الحيوية</string>
+    <string name="settings_biometric_desc">حماية دفتر أحلامك باستخدام بصمة الإصبع أو الوجه</string>
+    <string name="settings_reminders">تذكير التدوين الصباحي</string>
+    <string name="settings_reminders_desc">تنبيهك بلطف فور الاستيقاظ لتدوين الحلم قبل نسيانه</string>
+    <string name="settings_dark_mode_always">المظهر الداكن الدائم</string>
+    <string name="settings_dark_mode_desc">تصميم مريح للعين مهيأ للبيئات المظلمة</string>
+    <string name="settings_backup">النسخ الاحتياطي المشفر</string>
+    <string name="settings_backup_desc">حفظ وتأمين أحلامك سحابياً بشكل مشفر بالكامل</string>
+    <string name="settings_language">لغة التطبيق</string>
+    <string name="settings_about">حول مستدعي الأحلام</string>
+
+    <!-- Security & Biometric prompts -->
+    <string name="biometric_prompt_title">دفتر الأحلام مغلق</string>
+    <string name="biometric_prompt_subtitle">يرجى إثبات هويتك لفتح أحلامك الخاصة</string>
+    <string name="biometric_prompt_cancel">إلغاء</string>
+</resources>
